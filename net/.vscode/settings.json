@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "if.h": "c",
+        "ether.h": "c",
+        "features.h": "c"
+    }
+}
