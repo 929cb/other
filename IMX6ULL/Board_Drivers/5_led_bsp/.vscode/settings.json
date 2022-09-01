@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.s": "bibtex",
-        "mcimx6y2.h": "c",
-        "bsp_led.h": "c",
-        "fsl_iomuxc.h": "c"
-    }
-}
